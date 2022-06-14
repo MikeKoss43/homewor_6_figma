@@ -1,0 +1,130 @@
+@import 'null.css';
+
+@font-face {
+	font-family: 'Circular Std';
+	src: local('Circular Std Black'), local('Circular-Std-Black'),
+		url('CircularStd-Black.woff2') format('woff2'),
+		url('CircularStd-Black.woff') format('woff'),
+		url('CircularStd-Black.ttf') format('truetype');
+	font-weight: 900;
+	font-style: normal;
+	font-display: swap;
+}
+
+@font-face {
+	font-family: 'Circular Std';
+	src: local('Circular Std Bold'), local('Circular-Std-Bold'),
+		url('CircularStd-Bold.woff2') format('woff2'),
+		url('CircularStd-Bold.woff') format('woff'),
+		url('CircularStd-Bold.ttf') format('truetype');
+	font-weight: 700;
+	font-style: normal;
+	font-display: swap;
+}
+
+@font-face {
+	font-family: 'Circular Std';
+	src: local('Circular Std Book'), local('Circular-Std-Book'),
+		url('CircularStd-Book.woff2') format('woff2'),
+		url('CircularStd-Book.woff') format('woff'),
+		url('CircularStd-Book.ttf') format('truetype');
+	font-weight: normal;
+	font-style: normal;
+	font-display: swap;
+}
+
+@font-face {
+	font-family: 'Circular Std';
+	src: local('Circular Std Medium'), local('Circular-Std-Medium'),
+		url('CircularStd-Medium.woff2') format('woff2'),
+		url('CircularStd-Medium.woff') format('woff'),
+		url('CircularStd-Medium.ttf') format('truetype');
+	font-weight: 400;
+	font-style: normal;
+	font-display: swap;
+}
+
+header {
+	margin: 0 auto;
+}
+
+h1 {
+	color: #313131;
+	font-size: 65px;
+	font-family: 'Circular Std';
+	font-weight: 500;
+	margin-top: 140px;
+	margin-bottom: 20px;
+	text-align: center;
+
+
+
+}
+
+.one {
+	color: rgba(95, 95, 95, 1);
+	font-family: 'Circular Std';
+	font-weight: 400;
+	text-align: center;
+	font-size: 20px;
+	margin-bottom: 243px;
+	line-height: 25.3px;
+
+
+}
+
+.left {
+	margin-left: 221px;
+}
+
+h2 {
+	color: rgba(49, 49, 49, 1);
+	font-family: 'Circular Std';
+	font-size: 34px;
+	font-weight: 700;
+	line-height: 44.2px;
+	margin-bottom: 20px;
+	font-style: normal;
+}
+
+.two {
+	display: block;
+	color: rgba(95, 95, 95, 1);
+	font-family: 'Circular Std';
+	font-weight: 400;
+	font-size: 18px;
+	line-height: 28px;
+	margin-bottom: 125px;
+	max-width: 508px;
+	height: 140px;
+
+}
+
+h3 {
+	font-family: 'Circular Std';
+	font-weight: 700;
+	font-size: 18px;
+	line-height: 23.4px;
+	color: rgba(49, 49, 49, 1);
+	margin-bottom: 5px;
+}
+
+.market {
+        font-family: 'Circular Std';
+	color: rgba(184, 184, 184, 1);
+	font-size: 18px;
+	font-weight: 400;
+	margin-bottom: 81px;
+	line-height: 22.77px;
+}
+
+
+
+
+img {
+	
+	margin-bottom: 166px;
+	
+
+
+}
